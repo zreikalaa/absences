@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<codes xmlns="http://www.project.org/php">
+<element><dc>zein ibrahim</dc><code>ibrahim</code><admin>true</admin><cour>info 315 f</cour><cour>info 315 e</cour><cour>info 444</cour></element>
+<element><dc>ali chouman</dc><code>chouman</code><admin>false</admin><cour>info 444</cour></element></codes>

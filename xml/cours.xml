@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ns:cours xmlns:ns="http://www.project.org/php">
+
+<ns:cour>
+<ns:id>info 444</ns:id><students year="2015">
+<student>66660</student><student>66661</student><student>66662</student><student>66663</student><student>66664</student></students>
+<students year="2016">
+<student>77761</student><student>77762</student><student>77763</student><student>77764</student><student>77710</student><student>77760</student><student>77715</student><student>77716</student></students>
+</ns:cour>
+
+<ns:cour>
+<ns:id>info 315 f</ns:id><students year="2015">
+<student>66610</student><student>66611</student><student>66612</student><student>66613</student><student>66660</student></students>
+<students year="2016">
+<student>77710</student><student>77711</student><student>77712</student><student>77713</student><student>77760</student></students>
+</ns:cour>
+
+<ns:cour>
+<ns:id>info 315 e</ns:id><students year="2015">
+<student>66663</student><student>66614</student><student>66615</student><student>66662</student></students>
+<students year="2016">
+<student>77763</student><student>77714</student><student>77715</student><student>77762</student><student>77711</student><student>77716</student></students>
+</ns:cour>
+
+<ns:cour><ns:id>info 446</ns:id></ns:cour></ns:cours>

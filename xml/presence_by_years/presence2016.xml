@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<presence>
+
+<matiere mat="info 444">
+<class date="2016/01/15"><student><id>66660</id><ishere>true</ishere></student><student><id>66661</id><ishere>true</ishere></student><student><id>66662</id><ishere>false</ishere></student><student><id>66663</id><ishere>true</ishere></student><student><id>66664</id><ishere>true</ishere></student>
+</class>
+<class date="2016/01/15"><student><id>66660</id><ishere>false</ishere></student><student><id>66661</id><ishere>true</ishere></student><student><id>66662</id><ishere>true</ishere></student><student><id>66663</id><ishere>false</ishere></student><student><id>66664</id><ishere>true</ishere></student>
+</class>
+<class date="2016/01/15"><student><id>66660</id><ishere>true</ishere></student><student><id>66661</id><ishere>true</ishere></student><student><id>66662</id><ishere>true</ishere></student><student><id>66663</id><ishere>true</ishere></student><student><id>66664</id><ishere>true</ishere></student>
+</class>
+</matiere>
+
+
+<matiere mat="info 315 e">
+<class date="2016/01/15"><student><id>66663</id><ishere>true</ishere></student><student><id>66614</id><ishere>true</ishere></student><student><id>66615</id><ishere>true</ishere></student><student><id>66662</id><ishere>true</ishere></student>
+</class>
+<class date="2016/01/15"><student><id>66663</id><ishere>false</ishere></student><student><id>66614</id><ishere>true</ishere></student><student><id>66615</id><ishere>true</ishere></student><student><id>66662</id><ishere>false</ishere></student>
+</class>
+</matiere>
+
+
+<matiere mat="info 315 f">
+<class date="2016/01/15"><student><id>66610</id><ishere>false</ishere></student><student><id>66611</id><ishere>true</ishere></student><student><id>66612</id><ishere>true</ishere></student><student><id>66613</id><ishere>true</ishere></student><student><id>66660</id><ishere>false</ishere></student>
+</class>
+<class date="2016/01/15"><student><id>66610</id><ishere>true</ishere></student><student><id>66611</id><ishere>true</ishere></student><student><id>66612</id><ishere>true</ishere></student><student><id>66613</id><ishere>true</ishere></student><student><id>66660</id><ishere>true</ishere></student>
+</class>
+</matiere>
+
+</presence>
